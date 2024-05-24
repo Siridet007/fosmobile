@@ -1,0 +1,20 @@
+172.2.200.14/application/query_purchase/pr.php?mode=DisApprove&prnum=&prorder=&usercode=
+////////////////////DISAPPROVE////////////////////
+
+172.2.200.14/application/query_purchase/pr.php?mode=Approve&prnum=&usercode=&prorder=
+///////////////////APPROVE////////////////////////
+
+172.2.200.14/application/query_purchase/pr.php?mode=Hold&prnum=&usercode=&itemno=
+///////////////////HOLD///////////////////////////
+
+172.2.200.14/application/query_purchase/pr.php?mode=HoldAll&prnum=
+///////////////////HOLDALL////////////////////////
+
+172.2.200.14/application/query_purchase/pr.php?mode=Unhold&prnum=&usercode=&itemno=
+///////////////////UnHole/////////////////////////
+
+172.2.200.14/application/query_purchase/pr.php?mode=UnholdAll&prnum=&usercode=
+///////////////////UnHoleAll//////////////////////
+
+172.2.200.14/application/query_purchase/pr.php?mode=edit_qty_pr&prnum=&invcode=&qty_edit=
+//////////////////Edit Qty ////////////////////////
